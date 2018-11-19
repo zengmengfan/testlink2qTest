@@ -1,0 +1,13 @@
+{
+    "qtest_server_url": "",
+    "qtesttoken": "", 
+    "username": "",
+    "password": "",
+    "testlink_server_url":"",
+    "testlink_devkey": "",
+    "testlink_project_list":["xxx","XXX"], 
+    "qtestproject_list":["sss","SSS"], 
+    "project_members":["aa","bb","xx"],
+    "user_map":{"aa":"dd"},
+    "project_owner":"ee" 
+}
